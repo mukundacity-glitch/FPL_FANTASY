@@ -1,0 +1,8 @@
+Pillow
+requests
+edge-tts
+soundfile
+nest-asyncio
+numpy
+pandas
+playwright
